@@ -1,4 +1,8 @@
 {
+  "NAICS": {
+    "code": "int",
+    "name": "string"
+  },
   "Post": {
     "title": "string",
     "views": "int",
